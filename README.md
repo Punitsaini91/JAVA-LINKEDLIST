@@ -1,2 +1,2 @@
 # JAVA-LINKEDLIST
-Node is a comman file which is used in all programs
+Node.java is a comman file which is used in all programs
